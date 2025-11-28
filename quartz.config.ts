@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "cachiusa",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: null, // prevent tracking
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "vi-VN",
+    baseUrl: "cachiusa.github.io/post",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -31,11 +31,11 @@ const config: QuartzConfig = {
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          dark: "#2b2b2bff",
+          secondary: "#28633bff",
+          tertiary: "#84a58aff",
+          highlight: "rgba(143, 169, 153, 0.15)",
+          textHighlight: "#36ff7288",
         },
         darkMode: {
           light: "#161618",
@@ -43,10 +43,10 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          secondary: "#5fc779ff",
+          tertiary: "#abebc2ff",
+          highlight: "rgba(143, 169, 151, 0.15)",
+          textHighlight: "#02b33788",
         },
       },
     },
