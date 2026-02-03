@@ -1,5 +1,5 @@
 ---
-title: "Phốt Việt Hóa: Deltarune"
+title: "Phốt Việt Hóa: Deltarune Chapter 1"
 ---
 Credit bản dịch: C giấu mặt
 
@@ -55,3 +55,5 @@ Bro không biết mình đã chọc chó rất nhiều cư dân Làng Gốm Bát
 ## [Vinglish](https://www.youtube.com/watch?v=IJRcpQBLFmI)
 ![[2026-02-03_11-29-10.png]]
 
+---
+To be continued...
